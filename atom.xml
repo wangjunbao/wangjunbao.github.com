@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[王君保的个人博客]]></title>
+  <title><![CDATA[诗意的栖居]]></title>
   <subtitle><![CDATA[专注于大数据、云计算、搜索引擎技术资讯与研发。交流QQ群：221991288]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://wangjunbao.github.io/"/>
-  <updated>2015-01-25T02:34:26.635Z</updated>
+  <updated>2015-01-25T02:37:46.558Z</updated>
   <id>http://wangjunbao.github.io/</id>
   
   <author>
-    <name><![CDATA[王君保]]></name>
+    <name><![CDATA[poetic]]></name>
     <email><![CDATA[kingwjb@gmail.com/172762619@qq.com]]></email>
   </author>
   
